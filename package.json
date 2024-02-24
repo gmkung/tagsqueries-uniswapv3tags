@@ -5,7 +5,7 @@
   "homepage": "https://github.com/gmkung/tagsqueries-uniswapv3tags",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gmkung/tagsqueries-uniswapv3tags.git"
+    "url": "https://github.com/gmkung/tagsqueries-uniswapv3tags.git"
   },
   "license": "MIT",
   "type": "module",
